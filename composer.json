@@ -1,0 +1,11 @@
+{
+    "name": "madhavib/project2_1",
+    "description": "This library will generate a random quote for you.",
+    "authors": [
+        {
+            "name": "madhavi566",
+            "email": "madhavibogani@gmail.com"
+        }
+    ],
+    "require": {}
+}
