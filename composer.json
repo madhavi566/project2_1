@@ -9,9 +9,8 @@
     ],
     "autoload": {
         "psr-4":{
-            "RandomQuotes\\": "src/"
+            "RandomQuotes\\": "src/RandomQuotes"
         }
 
-    },
-    "require": {}
+    }
 }
